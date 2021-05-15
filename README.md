@@ -1,6 +1,6 @@
 # ToasterLibrary
 
-<h3>Step 1. Add the Toatster Library to your build file </h3>
+<h3>Step 1. Add the Toaster Library to your build file </h3>
 
 Add it in your root build.gradle at the end of repositories:
 
