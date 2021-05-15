@@ -15,7 +15,7 @@ Add it in your root build.gradle at the end of repositories:
 <h3>Step 2. Add the dependency</h3>
 
 	dependencies {
-	        implementation 'com.github.KingSujeet:ToasterLibrary:Tag'
+	        implementation 'com.github.KingSujeet:ToasterLibrary:1.0'
 	}
 
 <h5> All done here </h5>
